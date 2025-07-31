@@ -3,9 +3,9 @@ Miscellaneous information about the cyber security, linux commands, tricks, etc.
 ### Blackbird ###
 
 Blackbird helps you:
-a. Search for a given username across hundreds of social media, forums, and websites
-b. Detect possible accounts linked to the same username
-c. Useful for OSINT investigations, bug bounty recon, or personal privacy audits
+1. Search for a given username across hundreds of social media, forums, and websites
+2. Detect possible accounts linked to the same username
+3. Useful for OSINT investigations, bug bounty recon, or personal privacy audits
 
 ### Steps to follow: ###
 1. Open terminal and type :  git clone https://github.com/p1ngul1n0/blackbird
